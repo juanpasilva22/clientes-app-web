@@ -1,0 +1,39 @@
+{
+  "name": "clientes-app",
+  "dependencies": {
+    "@angular/animations": "^15.2.10",
+    "@angular/cdk": "^15.2.9",
+    "@angular/cli": "^15.2.11",
+    "@angular/common": "^15.2.10",
+    "@angular/compiler": "^15.2.10",
+    "@angular/compiler-cli": "^15.2.10",
+    "@angular/core": "^15.2.10",
+    "@angular/fire": "^18.0.1",
+    "@angular/forms": "^15.2.10",
+    "@angular/material": "^15.2.9",
+    "@angular/platform-browser": "^15.2.10",
+    "@angular/platform-browser-dynamic": "^15.2.10",
+    "@material/dialog": "^14.0.0",
+    "firebase": "^10.13.2",
+    "i": "^0.3.7",
+    "material-table": "^2.0.6",
+    "npm": "^10.8.3",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.7.0",
+    "zone.js": "^0.15.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^15.2.11",
+    "@angular/cli": "^15.2.11",
+    "@angular/common": "^15.2.10",
+    "@angular/compiler": "^15.2.10",
+    "@angular/compiler-cli": "^15.2.10",
+    "@angular/core": "^15.2.10",
+    "@types/jasmine": "^5.1.4",
+    "@types/mocha": "^10.0.8",
+    "typescript": "^4.8.2"
+  },
+  "scripts": {
+    "postinstall": "ngcc"
+  }
+}
